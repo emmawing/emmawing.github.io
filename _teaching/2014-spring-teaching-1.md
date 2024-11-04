@@ -1,20 +1,35 @@
 ---
-title: "Teaching experience 1"
+title: "Psychology of Language"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/psychology-of-language
+venue: "UConn, Psychological Sciences"
+date: 2023
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Materials
 ======
 
-Heading 2
-======
+Syllabus
+------
 
-Heading 3
-======
+Course Materials
+------
+
+[Week 1]()
+[Week 2]()
+[Week 3]()
+[Week 4]()
+[Week 5]()
+[Week 6]()
+[Week 7]()
+[Week 8]()
+[Week 9]()
+[Week 10]()
+[Week 11]()
+[Week 12]()
+[Week 13]()
+[Week 14]()
+
+Materials adapted from those of Yee & Altmann, 2023.
