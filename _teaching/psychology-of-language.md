@@ -13,7 +13,7 @@ Materials
 
 Syllabus
 ------
-[Psychology of Language Syllabus, fall 2023]()
+<a href="/files/wing_cv2024.pdf" target="_blank">Syllabus, fall 2023</a>
 
 Course Materials
 ------
