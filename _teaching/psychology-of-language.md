@@ -8,15 +8,10 @@ date: 2023-9-1
 ---
 
 
-
-
-
-Syllabus
-------
+<h2>Syllabus</h2>
 <a href="/files/psych-of-lang-fa2023.pdf" style="color: gray; text-decoration: underline;" target="_blank">Fall 2023</a>
 
-Course Materials
-------
+<h2>Course Materials</h2>
 
 <a href="/files/1 introduction.pdf" style="color: gray; text-decoration: underline;" target="_blank">Introduction</a>
 
