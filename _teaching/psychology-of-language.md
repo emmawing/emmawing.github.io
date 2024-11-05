@@ -61,11 +61,11 @@ Course Materials
 
 <a href="/files/19 aquired aphasia.pdf" style="color: gray; text-decoration: underline;" target="_blank">Acquired aphasia</a>
 
-<a href="/files/20 reading.pdf" style="color: gray; text-decoration: underline; "target="_blank">Reading</a>
+<a href="/files/20 reading.pdf" style="color: gray; text-decoration: underline;" target="_blank">Reading</a>
 
-<a href="/files/21 acquired dyslexia.pdf" style="color: gray; text-decoration: underline; "target="_blank">Acquired dyslexia</a>
+<a href="/files/21 acquired dyslexia.pdf" style="color: gray; text-decoration: underline;" target="_blank">Acquired dyslexia</a>
 
-<a href="/files/22 Diversity & multilingualism.pdf" style="color: gray; text-decoration: underline; "target="_blank">Diversity & multilingualism</a>
+<a href="/files/22 Diversity & multilingualism.pdf" style="color: gray; text-decoration: underline;" target="_blank">Diversity & multilingualism</a>
 
 <a href="/files/23 sla & language and thought.pdf" style="color: gray; text-decoration: underline;" target="_blank">SLA & language and thought II</a>
 
