@@ -72,4 +72,4 @@ Course Materials
 <a href="/files/24 big picture discussion.pdf" target="_blank">Big picture discussion</a>
 
 
-<em>Materials adapted from those of Yee & Altmann, 2023. These materials are intended for </em>
+<em>Materials adapted from those of Yee & Altmann, 2023. These materials are intended for PSYC3500 Fall 2023.</em>
