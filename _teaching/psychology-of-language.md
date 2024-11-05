@@ -3,7 +3,7 @@ title: "Psychology of Language"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/psychology-of-language
-venue: "UConn, Psychological Sciences"
+venue: "Psychological Sciences, UConn"
 date: 2023-9-1
 ---
 
@@ -13,7 +13,7 @@ Materials
 
 Syllabus
 ------
-<a href="/files/wing_cv2024.pdf" target="_blank">Syllabus, fall 2023</a>
+<a href="/files/psych-of-lang-fa2023.pdf" target="_blank">Fall 2023</a>
 
 Course Materials
 ------
@@ -46,4 +46,4 @@ Course Materials
 
 [Week 14]()
 
-Materials adapted from those of Yee & Altmann, 2023.
+<em>Materials adapted from those of Yee & Altmann, 2023.</em>
