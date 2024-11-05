@@ -9,6 +9,8 @@ date: 2025-1-22
 
 <em>(Under construction)</em>
 
+======
+
 Syllabus
 ------
 [Cognitive Psychology Syllabus, spring 2025]()
