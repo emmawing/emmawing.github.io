@@ -14,6 +14,7 @@ I study how our knowledge of language corresponds to our concepts when we compre
 
 Here is my <a href="wing_cv2024.pdf" style="color: gray; text-decoration: underline; target=_blank">CV</a> as of October 2024.
 
+<a href="wing_cv2024.pdf" target="_blank">CV</a>
 
 Research interests
 ------
