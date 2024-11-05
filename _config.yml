@@ -25,7 +25,7 @@ author:
   name             : "Emma Wing"
   pronouns         : #"she/her"  
   bio              : "Psycholinguist"
-  location         : "Storrs, CT"
+  location         : # "Storrs, CT"
   employer         : "University of Connecticut"
   uri              : # URL
   email            : "emma.wing@uconn.edu" 
