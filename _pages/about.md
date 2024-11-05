@@ -16,6 +16,6 @@ Here is my [CV]() as of October 2024.
 
 Research interests
 ------
-I am interested in the mapping of linguistic and conceptual structures and the way this relates to visual perception. I draw in large part on insights from generative linguistics and research on the perception, recognition, and representation of objects and events. I am also interested in determining the right way to characterize compositionality in language, concept, and visual processing, and their similarities. In my experiments, I use behavioral methods that integrate the use of linguistic and visual stimuli, such as sentence-picture priming and eye tracking in the Visual World. I am strongly committed to bridging and integrating across disciplinary divides, and I actively seek collaborators in this endeavor.
+I am interested in the mapping of linguistic and conceptual structures and the way this relates to visual perception. I draw in large part on insights from generative linguistics and research on the perception, recognition, and representation of objects and events. I am also interested in determining the right way to characterize compositionality in language, concept, and visual processing, and whether they share characteristics of compositionality. In my experiments, I use behavioral methods that integrate the use of linguistic and visual stimuli, such as sentence-picture priming and eye tracking in the Visual World. I am strongly committed to bridging and integrating across disciplinary divides, and I actively seek collaborators in this endeavor.
 
 
