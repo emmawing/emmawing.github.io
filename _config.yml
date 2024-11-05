@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "headshot_small.jpeg"
   name             : # "Your Sidebar Name"
-  pronouns         : "she/her"  
+  pronouns         : #"she/her"  
   bio              : "Psycholinguist"
   location         : "Storrs, CT"
   employer         : "University of Connecticut"
