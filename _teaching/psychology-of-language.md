@@ -4,7 +4,6 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/psychology-of-language
 venue: "UConn, Psychological Sciences"
-date: 2023
 ---
 
 
