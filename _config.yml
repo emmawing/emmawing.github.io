@@ -21,7 +21,7 @@ repository               : "emmawing/emmawing.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headshot_small.jpeg"
+  avatar           : "headshot_smallest.png"
   name             : "Emma Wing"
   pronouns         : #"she/her"  
   bio              : "Psycholinguist"
