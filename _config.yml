@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Emma Wing"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Emma Wing"
 description              : &description "personal description"
