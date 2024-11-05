@@ -14,7 +14,7 @@ I study how our knowledge of language corresponds to our concepts when we compre
 
 Here is my [CV](https://github.com/emmawing/emmawing.github.io/files/wing_cv2024.pdf) as of October 2024.
 
-<a href="https://github.com/emmawing/emmawing.github.io/raw/main/files/wing_cv2024.pdf" target="_blank">CV (PDF)</a>
+<a href="https://github.com/emmawing/emmawing.github.io/raw/main/files/wing_cv2024.pdf" style="color: black; text-decoration: underline; target=_blank">CV</a>
 
 
 Research interests
