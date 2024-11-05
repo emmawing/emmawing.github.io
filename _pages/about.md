@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-About me
+Bio
 ------
 My name is Emma Wing. I am a graduate student at the University of Connecticut in the [Language & Cognition Division](https://psychology.uconn.edu/phd/language-and-cognition/) of the Department of Psychological Sciences, where I work with Whit Tabor and Gerry Altmann.
 
