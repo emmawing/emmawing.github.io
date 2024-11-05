@@ -14,32 +14,62 @@ Syllabus
 Course Materials
 ------
 
-[Week 1]()
+<a href="/files/1 introduction.pdf" target="_blank">Introduction</a>
 
-[Week 2]()
+<br>
+**Unit 1: Development of Language**
 
-[Week 3]()
+<a href="/files/2 (unit 1) speech perception.pdf" target="_blank">Speech perception</a>
 
-[Week 4]()
+<a href="/files/3 syllables and prosody.pdf" target="_blank">Syllables and prosody</a>
 
-[Week 5]()
+<a href="/files/4 learning words.pdf" target="_blank">Learning words</a>
 
-[Week 6]()
+<a href="/files/5 learning syntax & morphology.pdf" target="_blank">Learning syntax & morphology</a>
 
-[Week 7]()
+<a href="/files/6 critical period and language creation.pdf" target="_blank">Critical period & language creation</a>
 
-[Week 8]()
+<br>
+**Unit 2: The Mature System**
 
-[Week 9]()
+<a href="/files/7 (unit 2) spoken word recognition.pdf" target="_blank">Spoken word recognition</a>
 
-[Week 10]()
+<a href="/files/8 meaning & semantic memory.pdf" target="_blank">Meaning & semantic memory</a>
 
-[Week 11]()
+<a href="/files/9 sentence processing.pdf" target="_blank">Sentence processing</a>
 
-[Week 12]()
+<a href="/files/10 discourse processing.pdf" target="_blank">Discourse processing</a>
 
-[Week 13]()
+<a href="/files/11 computational models I.pdf" target="_blank">Computational models I</a>
 
-[Week 14]()
+<a href="/files/12 computational models II.pdf" target="_blank">Computational models II</a>
 
-<em>Materials adapted from those of Yee & Altmann, 2023.</em>
+<a href="/files/13 dialogue.pdf" target="_blank">Dialogue</a>
+
+<a href="/files/14 pragmatics.pdf" target="_blank">Pragmatics</a>
+
+<a href="/files/15 production.pdf" target="_blank">Production</a>
+
+<a href="/files/16 big picture discussion.pdf" target="_blank">Big picture discussion</a>
+
+<br>
+**Unit 3: Language, Brain & Diversity**
+
+<a href="/files/17 (unit 3) language & thought.pdf" target="_blank">Language & thought I</a>
+
+<a href="/files/18 language and brain.pdf" target="_blank">Language & brain</a>
+
+<a href="/files/19 aquired aphasia.pdf" target="_blank">Acquired aphasia</a>
+
+<a href="/files/20 reading.pdf" target="_blank">Reading</a>
+
+<a href="/files/21 acquired dyslexia.pdf" target="_blank">Acquired dyslexia</a>
+
+<a href="/files/22 Diversity & multilingualism.pdf" target="_blank">Diversity & multilingualism</a>
+
+<a href="/files/23 sla & language and thought.pdf" target="_blank">SLA & language and thought II</a>
+
+<a href="/files/24 big picture discussion.pdf" target="_blank">Big picture discussion</a>
+
+
+<em>Materials adapted from those of Yee & Altmann, 2023. These materials are intended for </em>
