@@ -7,4 +7,4 @@ author_profile: true
 
 <h2>Resources</h2>
 
-_under construction_
+Tutorial on 
