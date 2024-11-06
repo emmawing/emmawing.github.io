@@ -7,6 +7,7 @@ venue: "Psychological Sciences, UConn"
 date: 2023-9-1
 ---
 
+PSYC3500
 
 <h2>Syllabus</h2>
 <a href="/files/psych-of-lang-fa2023.pdf" style="color: gray; text-decoration: underline;" target="_blank">Fall 2023</a>
