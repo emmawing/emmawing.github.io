@@ -7,9 +7,9 @@ venue: "UConn, Psychological Sciences"
 date: 2025-1-22
 ---
 
-<em>(Under construction)</em>
+PSYC2501. UConn Description: Different views of mental representation and processes involved in memory, language comprehension, perception, attention, and problem solving. Historical development of models in cognitive psychology.
 
-======
+<em>(Under construction)</em>
 
 Syllabus
 ------
