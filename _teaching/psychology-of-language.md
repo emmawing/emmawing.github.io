@@ -7,7 +7,14 @@ venue: "Psychological Sciences, UConn"
 date: 2023-9-1
 ---
 
-PSYC3500
+PSYC3500. Description: Language is a human faculty that we take for granted, like breathing. Nobody taught
+us to breathe, just as no one taught us to listen, understand, and make sense of the jumble
+of sounds that we’re confronted with from the moment we’re born. Yet, somehow we learn
+to make sense of the sounds we hear; we hear patterns in those sounds and we associate
+meanings with those patterns. As adults, we possess knowledge about tens of thousands
+of words, what they mean, how they’re spelled, how they sound, how to move the muscles
+in the lips and tongue to pronounce them, how to join them up to form sentences. In this
+course we will discuss ways in which psycholinguists study language in the mind and brain.
 
 <h2>Syllabus</h2>
 <a href="/files/psych-of-lang-fa2023.pdf" style="color: gray; text-decoration: underline;" target="_blank">Fall 2023</a>
