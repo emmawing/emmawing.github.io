@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-My name is Emma Wing. I am a graduate student at the University of Connecticut in the <a href="https://psychology.uconn.edu/phd/language-and-cognition/" style="color: gray; text-decoration: underline;" target="_blank">Language & Cognition Division</a> of the Department of Psychological Sciences, where I work with Whit Tabor and Gerry Altmann.
+My name is Emma Wing. I am a graduate student at the University of Connecticut in the <a href="https://psychology.uconn.edu/phd/language-and-cognition/" style="color: gray; text-decoration: underline;" target="_blank">Language & Cognition Division</a> of the Department of Psychological Sciences, where I work with <a href="https://psychology.uconn.edu/person/whitney-tabor/" style="color: gray; text-decoration: underline;" target="_blank">Whit Tabor</a> and <a href="https://psychology.uconn.edu/person/gerry-altmann/" style="color: gray; text-decoration: underline;" target="_blank">Gerry Altmann</a>.
 
 I study how our knowledge of language corresponds to our concepts when we comprehend language, and how this process relates to the objects and events we perceive and experience in the world. 
 
