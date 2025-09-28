@@ -7,6 +7,8 @@ author_profile: true
 
 <h2>Resources</h2>
 
+These unofficial materials are intended for members of SOLab and Altmann Lab.
+
 <h3>Online experiment help</h3>
 
 <a href="https://docs.google.com/document/d/1d_Io2xfpE101IxbwIbv7n5ofGBDmNI8Wj41BUgHSWsU/edit?usp=share_link" style="color: gray; text-decoration: underline;" target="_blank">Qualtrics tutorial</a>
