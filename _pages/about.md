@@ -12,7 +12,7 @@ My name is Emma Wing. I am a graduate student at the University of Connecticut i
 
 I study how our knowledge of language corresponds to our concepts when we comprehend language, and how this process relates to the objects and events we perceive and experience in the world. 
 
-Here is my <a href="/files/wing_cv2026.pdf" style="color: gray; text-decoration: underline;" target="_blank">CV</a> as of October 2025.
+Here is my <a href="/files/wing_cv2026.pdf" style="color: gray; text-decoration: underline;" target="_blank">CV</a> as of January 2026.
 
 Research interests
 ------
