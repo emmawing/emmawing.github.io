@@ -22,3 +22,7 @@ main:
     url: /resources/
     image: /assets/images/resources-icon.png
 
+  - title: "Fun"
+    url: /resources/
+    image: /assets/images/speech-errors-icon.png
+
