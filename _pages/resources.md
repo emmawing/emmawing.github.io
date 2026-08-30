@@ -7,7 +7,7 @@ author_profile: true
 
 <h2>Resources</h2>
 
-These unofficial materials are intended for members of SOLab and Altmann Lab.
+These are unofficial materials intended for members of SOLab.
 
 <h3>Online experiment help</h3>
 
