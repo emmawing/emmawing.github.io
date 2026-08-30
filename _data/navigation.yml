@@ -20,9 +20,9 @@ main:
     
   - title: "Resources"
     url: /resources/
-    image: /files/images/resources-icon.png
+    image: /files/resources-icon.png
 
   - title: "Fun"
     url: /resources/
-    image: /files/images/speech-errors-icon.png
+    image: /files/speech-errors-icon.png
 
