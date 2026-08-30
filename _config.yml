@@ -22,9 +22,9 @@ repository               : "emmawing/emmawing.github.io"
 author:
   # Biographic information
   avatar           : "headshot_smallest.png"
-  name             : "Emma Wing"
+  name             : #"Emma Wing"
   pronouns         : #"she/her"  
-  bio              : "Psycholinguist"
+  bio              : "Cognitive Scientist"
   location         : # "Storrs, CT"
   employer         : "University of Connecticut"
   uri              : # URL
