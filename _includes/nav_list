@@ -14,7 +14,13 @@
             {% assign domain = base_path %}
           {% endif %}
 
-          <a href="{{ domain }}{{ nav.url }}"><span class="nav__sub-title">{{ nav.title }}</span></a>
+          <a href="{{ domain }}{{ nav.url }}">
+            {% if nav.image %}
+            <img src="{{ base_path }}{{ nav.image }}" alt="{{ nav.title }}" class="nav__icon">
+            {% else %}
+              <span class="nav__sub-title">{{ nav.title }}</span>
+            {% endif %}
+              </a>
         {% else %}
           <span class="nav__sub-title">{{ nav.title }}</span>
         {% endif %}
