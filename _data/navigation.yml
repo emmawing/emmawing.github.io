@@ -23,6 +23,6 @@ main:
     image: "/files/resources-icon.png"
 
   - title: Fun
-    url: /speecherrors/
+    url: /speech-errors/
     image: "/files/speech-errors-icon.png"
 
