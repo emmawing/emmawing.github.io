@@ -16,7 +16,7 @@ jobs:
       - name: Checkout CV repo
         uses: actions/checkout@v4
         with:
-          repository: your-username/wing_cv
+          repository: emmawing/wing_cv
           path: cv-source
 
       - name: Compile Paper
