@@ -22,7 +22,7 @@ main:
     url: /resources/
     image: "/files/resources-icon.png"
 
-#  - title: "Fun"
-#    url: /resources/
-#    image: /files/speech-errors-icon.png
+  - title: Fun
+    url: /speecherrors/
+    image: "/files/speech-errors-icon.png"
 
