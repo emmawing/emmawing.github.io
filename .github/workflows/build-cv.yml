@@ -18,11 +18,12 @@ jobs:
         with:
           repository: emmawing/wing_cv
           path: cv-source
+          token: ${{ secrets.CV_OVERLEAF_SECRET }}
 
       - name: Compile Paper
         uses: xu-cheng/latex-action@v3
         with:
-          root_file: main.tex
+          root_file: wing_cv.tex
 
       - name: Compile CV
         uses: xu-cheng/latex-action@v3
