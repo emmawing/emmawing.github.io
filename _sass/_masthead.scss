@@ -37,10 +37,9 @@
 }
 
 .masthead__menu {
-
-  ul {
   margin-left: auto; // pushes the whole nav block to the right
   ul {
+    margin: 0;
     padding: 0;
     clear: both;
     list-style-type: none;
