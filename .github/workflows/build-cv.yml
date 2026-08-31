@@ -35,7 +35,7 @@ jobs:
         run: |
           mkdir -p files
           cp main.pdf files/paper.pdf
-          cp cv-source/wing_cv.pdf files/wing_cv.pdf
+          cp cv-source/paper.pdf files/wing_cv.pdf
 
       - name: Commit and push PDFs
         uses: stefanzweifel/git-auto-commit-action@v5
