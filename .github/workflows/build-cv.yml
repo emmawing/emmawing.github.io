@@ -32,11 +32,11 @@ jobs:
       - name: Move PDFs into site folder
         run: |
           mkdir -p assets
-          cp wing_cv.pdf assets/wing_cv.pdf
-          cp cv-source/wing_cv.pdf assets/wing_cv.pdf
+          cp wing_cv.pdf files/wing_cv.pdf
+          cp cv-source/wing_cv.pdf files/wing_cv.pdf
 
       - name: Commit and push PDFs
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Auto-build PDFs from LaTeX source"
-          file_pattern: assets/wing_cv.pdf assets/wing_cv.pdf
+          file_pattern: files/wing_cv.pdf files/wing_cv.pdf
