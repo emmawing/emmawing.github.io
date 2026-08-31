@@ -18,9 +18,9 @@ main:
   - title: "CV"
     url: /files/cv.pdf
     
-#  - title: "Resources"
-#    url: /resources/
-#    image: /files/resources-icon.png
+  - title: "Resources"
+    url: /resources/
+    image: /files/resources-icon.png
 
 #  - title: "Fun"
 #    url: /resources/
