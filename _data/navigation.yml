@@ -16,7 +16,7 @@ main:
     url: /teaching/  
 
   - title: "CV"
-    url: <a href="/files/wing_cv.pdf" target="_blank" rel="noopener noreferrer">CV</a>
+    url: <a href="/files/cv.pdf" target="_blank">CV</a>
     
   - title: "Resources"
     url: /resources/
