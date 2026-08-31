@@ -19,8 +19,8 @@ main:
     url: /files/wing_cv.pdf
     
   - title: Resources
-    url: /resources/
-    image: /files/resources-icon.png
+    url: /
+    image: "/files/images/resources-icon.png"
 
 #  - title: "Fun"
 #    url: /resources/
