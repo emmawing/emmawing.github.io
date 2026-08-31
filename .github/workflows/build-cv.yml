@@ -33,7 +33,7 @@ jobs:
       - name: Move PDFs into site folder
         run: |
           mkdir -p assets
-          cp wing_cv.pdf files/wing_cv.pdf
+          cp main.pdf files/paper.pdf
           cp cv-source/wing_cv.pdf files/wing_cv.pdf
 
       - name: Commit and push PDFs
