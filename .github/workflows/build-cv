@@ -1,0 +1,28 @@
+name: Build PDF
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  build_pdf:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Compile LaTeX
+        uses: xu-cheng/latex-action@v3
+        with:
+          root_file: cv-template.tex   # change to your .tex filename
+
+      - name: Move PDF into site folder
+        run: |
+          mkdir -p docs
+          cp cv.pdf assets/cv.pdf   # adjust paths as needed
+
+      - name: Commit and push PDF
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-build PDF from LaTeX source"
+          file_pattern: assets/cv.pdf
