@@ -3,26 +3,40 @@ name: Build PDF
 on:
   push:
     branches: [main]
+  schedule:
+    - cron: '0 */6 * * *'   # rebuilds every 6 hours regardless of trigger source
 
 jobs:
   build_pdf:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
+      - name: Checkout site repo
         uses: actions/checkout@v4
 
-      - name: Compile LaTeX
+      - name: Checkout CV repo
+        uses: actions/checkout@v4
+        with:
+          repository: your-username/wing_cv
+          path: cv-source
+
+      - name: Compile Paper
         uses: xu-cheng/latex-action@v3
         with:
-          root_file: cv-template.tex   # change to your .tex filename
+          root_file: main.tex
 
-      - name: Move PDF into site folder
+      - name: Compile CV
+        uses: xu-cheng/latex-action@v3
+        with:
+          root_file: cv-source/wing_cv.tex
+
+      - name: Move PDFs into site folder
         run: |
-          mkdir -p docs
-          cp cv.pdf assets/cv.pdf   # adjust paths as needed
+          mkdir -p assets
+          cp wing_cv.pdf assets/wing_cv.pdf
+          cp cv-source/wing_cv.pdf assets/wing_cv.pdf
 
-      - name: Commit and push PDF
+      - name: Commit and push PDFs
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Auto-build PDF from LaTeX source"
-          file_pattern: assets/cv.pdf
+          commit_message: "Auto-build PDFs from LaTeX source"
+          file_pattern: assets/wing_cv.pdf assets/wing_cv.pdf
