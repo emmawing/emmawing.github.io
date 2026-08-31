@@ -2,7 +2,7 @@ name: Build PDF
 
 on:
   push:
-    branches: [main]
+    branches: [master]
   schedule:
     - cron: '0 */6 * * *'   # rebuilds every 6 hours regardless of trigger source
 
