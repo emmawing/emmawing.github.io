@@ -6,8 +6,8 @@
 
 main:
 
-  - title: "Research"
-    url: /research/
+#  - title: "Research"
+#    url: /research/
 
   - title: "Papers & Presentations"
     url: /productions/    
@@ -17,7 +17,6 @@ main:
 
   - title: "CV"
     url: /files/cv.pdf
-    #target: _blank
     
   - title: Resources
     url: /resources/
