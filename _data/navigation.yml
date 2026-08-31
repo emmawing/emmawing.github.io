@@ -16,9 +16,9 @@ main:
     url: /teaching/  
 
   - title: "CV"
-    url: <a href="/files/cv.pdf" target="_blank">CV</a>
+    url: /files/cv.pdf
     
-  - title: /files/resources-icon.png
+  - title: Resources
     url: /resources/
     image: /files/resources-icon.png
 
