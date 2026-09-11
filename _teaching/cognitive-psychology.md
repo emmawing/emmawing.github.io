@@ -15,9 +15,10 @@ Syllabus
 <h2>Syllabus</h2>
 <a href="/files/psyc2501_syllabus.pdf" style="color: gray; text-decoration: underline;" target="_blank">Spring 2025</a>
 
+<!--
 Course Materials
 ------
 
 <em>(Under construction)</em>
-
+-->
 
