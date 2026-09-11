@@ -5,6 +5,7 @@ type: "Undergraduate course"
 permalink: /teaching/psychology-of-language
 venue: "Psychological Sciences, UConn"
 date: 2023-9-1
+share: false
 ---
 
 PSYC3500. Description: Language is a human faculty that we take for granted, like breathing. Nobody taught
