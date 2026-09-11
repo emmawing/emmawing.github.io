@@ -19,6 +19,7 @@ course we discuss ways in which psycholinguists study language in the mind and b
 <h2>Syllabus</h2>
 <a href="/files/psych-of-lang-fa2023.pdf" style="color: gray; text-decoration: underline;" target="_blank">Fall 2023</a>
 
+<!-- 
 <h2>Course Materials</h2>
 
 <a href="/files/1 introduction.pdf" style="color: gray; text-decoration: underline;" target="_blank">Introduction</a>
@@ -80,3 +81,4 @@ course we discuss ways in which psycholinguists study language in the mind and b
 
 
 <em>Materials adapted from those of Yee & Altmann, 2023. These materials are intended for PSYC3500 Fall 2023.</em>
+-->
