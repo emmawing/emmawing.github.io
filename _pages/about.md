@@ -16,8 +16,8 @@ I study how our knowledge of language corresponds to our concepts when we compre
 Research interests
 ------
 <span style="font-variant: small-caps; color: gray;">language comprehension | experimental semantics | 
-<a href="#concept" style="font-variant: small-caps; font-size: 18px; color: gray; text-decoration: underline;">objects & events</a> | 
-<a href="#compositionality" style="font-variant: small-caps; font-size: 18px; color: gray; text-decoration: underline;">compositionality  </a> </span>
+<a href="research.html#concept" style="font-variant: small-caps; font-size: 18px; color: gray;">objects & events</a> | 
+<a href="research.html#compositionality" style="font-variant: small-caps; font-size: 18px; color: gray;">compositionality  </a> </span>
 
 I study the mapping between linguistic and conceptual structures and the way this relates to perception. I draw in large part on insights from generative linguistics and research on the perception, recognition, and representation of objects and events. I am also interested in determining the right way to characterize compositionality in language, concept, and visual processing, and whether they share characteristics of compositionality. In my experiments, I use behavioral methods that integrate the use of linguistic and visual stimuli, such as sentence-picture priming and eye tracking in the Visual World. I am strongly committed to bridging and integrating across disciplinary divides, and I actively seek collaborators in this endeavor.
 
