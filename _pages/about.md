@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-My name is Emma Wing. I am a doctoral candidate at the University of Connecticut in the <a href="https://psychology.uconn.edu/phd/language-and-cognition/" style="color: #A9A77B; text-decoration: underline;" target="_blank">Language & Cognition Division</a> of the Department of Psychological Sciences, where I work with <a href="https://psychology.uconn.edu/person/whitney-tabor/" style="color: #A9A77B; text-decoration: underline;" target="_blank">Whit Tabor</a>.
+My name is Emma Wing. I am a doctoral candidate at the University of Connecticut in the <a href="https://psychology.uconn.edu/phd/language-and-cognition/" style="color: #9CAF9C; text-decoration: underline;" target="_blank">Language & Cognition Division</a> of the Department of Psychological Sciences, where I work with <a href="https://psychology.uconn.edu/person/whitney-tabor/" style="color: #9CAF9C; text-decoration: underline;" target="_blank">Whit Tabor</a>.
 
 I study how our knowledge of language corresponds to our knowledge about the world when we comprehend language, and how this process relates to the objects and events we perceive and experience. 
 
